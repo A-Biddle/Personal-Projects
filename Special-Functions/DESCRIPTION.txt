@@ -1,0 +1,2 @@
+This was a little project to help me visualise bessel functions and legendre polynomials as well as understand how they are generated.
+It was also a very useful excercise in namespaces; I implement it very crudely in Special_Functions.py but it shows promise for very interesting uses.
